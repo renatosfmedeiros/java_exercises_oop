@@ -1,0 +1,5 @@
+
+package polimofrismo;
+
+class TrianguloEquilatero{
+}
